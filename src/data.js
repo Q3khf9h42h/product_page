@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
+      img: "https://i.pinimg.com/736x/57/95/1d/57951d10713bcf9e658e3f1e5b4b8786.jpg",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
@@ -47,7 +47,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://media.istockphoto.com/id/1217970962/photo/elegance-peach-vintage-dress-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=Uht6bRtoSLHgt2v7FUgwb6vrGTkn7XIa85MuQXjuzSE=",
     },
     {
       id:3,
@@ -55,7 +55,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMvROqxDgp1q19UUyMa2OOEZ8T2pct5VrEJA4RKITAA&s",
     },
     {
       id:5,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKSHsGo8mCkPxnFvPzVnSUM1nR_kjj_vLrhOuOE6nvWIILh4sVwexGp3EUbj8Z7Ou8KU&usqp=CAU",
     },
     {
       id:8,
